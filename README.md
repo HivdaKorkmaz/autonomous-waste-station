@@ -2,6 +2,10 @@
 
 Bu depo, bilgisayarlı görü (YOLOv8) ve gömülü sistemler (Arduino) kullanılarak geliştirilmiş, gerçek zamanlı çalışan tam otonom bir atık ayrıştırma prototipinin kaynak kodlarını içermektedir. Lisans Bitirme Tezi kapsamında geliştirilmiştir.
 
+### 📽️ Proje Çalışma Videosu
+
+[![Otonom Atık Ayrıştırma İstasyonu](https://img.youtube.com/vi/99Q3V9Ulz7s/0.jpg)](https://www.youtube.com/watch?v=99Q3V9Ulz7s)
+
 ## 🚀 Proje Özeti
 Geleneksel atık yönetimindeki biyolojik riskleri ve sınıflandırma maliyetlerini kaynağında çözmek amacıyla geliştirilen bu sistem; atıkları (Tıbbi Atık, Plastik, Cam, Metal, Kağıt) kameradan gerçek zamanlı olarak algılar ve otonom servo motorlar yardımıyla doğru hazneye yönlendirir.
 
